@@ -1,4 +1,5 @@
 {
   "buildCommand": "pip install --break-system-packages -r requirements.txt",
+  "outputDirectory": ".",
   "framework": null
 }

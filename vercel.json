@@ -1,9 +1,4 @@
 {
   "buildCommand": "pip install --break-system-packages -r requirements.txt",
-  "framework": null,
-  "functions": {
-    "api/index.py": {
-      "runtime": "python"
-    }
-  }
+  "framework": null
 }
